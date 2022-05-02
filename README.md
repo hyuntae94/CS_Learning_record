@@ -11,3 +11,4 @@
 # ⚙️ 네트워크
 
 - [switch, router](https://leeward-crabapple-4c7.notion.site/ae961625048947118fd74197fc7666a6)
+- [VLAN](https://leeward-crabapple-4c7.notion.site/VLAN-25df74bd74704eda9e4fc7f2ea82b4e9)
