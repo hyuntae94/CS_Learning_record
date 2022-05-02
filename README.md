@@ -7,3 +7,7 @@
 # 🐼 운영체제
 
 - [fork 사용해보기](https://leeward-crabapple-4c7.notion.site/fork-b878cff55cfe44b786665061fd88ed75)
+
+# ⚙️ 네트워크
+
+- [switch, router](https://leeward-crabapple-4c7.notion.site/ae961625048947118fd74197fc7666a6)
