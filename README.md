@@ -3,6 +3,7 @@
 # 🐙 자료구조
 - [부동소수점, 고정소수점](https://leeward-crabapple-4c7.notion.site/de65531c50cb49b4b3bcf92599851ff4)
 - [트리](https://leeward-crabapple-4c7.notion.site/Tree-70474277e1bd4634bba2ae0c027a8b9c)
+- [트리-이진탐색트리의 삭제, 삽입 & AVL tree](https://leeward-crabapple-4c7.notion.site/Tree3-519937e7976544c886ce9f637208c3a4)
 
 # 🐼 운영체제
 
