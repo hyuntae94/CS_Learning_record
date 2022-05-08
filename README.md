@@ -8,6 +8,7 @@
 # 🐼 운영체제
 
 - [fork 사용해보기](https://leeward-crabapple-4c7.notion.site/fork-b878cff55cfe44b786665061fd88ed75)
+- [프로세스통신을 알아보자1](https://leeward-crabapple-4c7.notion.site/1-c8d3c46a818f4c948e9a609bfd88fa45)
 
 # ⚙️ 네트워크
 
