@@ -6,6 +6,7 @@
 - [트리-이진탐색트리의 삭제, 삽입 & AVL tree](https://leeward-crabapple-4c7.notion.site/Tree3-519937e7976544c886ce9f637208c3a4)
 - [AVL tree 삽입&삭제& 4가지의 Rotations](https://leeward-crabapple-4c7.notion.site/AVL-Insert-Delete-2878ad47dda14e66955e64ab95bccba2)
 - [트리 : 다원소 data를 갖는 node](https://leeward-crabapple-4c7.notion.site/tree-a1cfb7a1b08b4000afcd8d703b7183db)
+- [B-Tree](https://leeward-crabapple-4c7.notion.site/B-Tree-a51d788d50ed419a940915661a77726e)
 
 # 🐼 운영체제
 
