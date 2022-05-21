@@ -21,3 +21,4 @@
 - [switch, router](https://leeward-crabapple-4c7.notion.site/ae961625048947118fd74197fc7666a6)
 - [VLAN](https://leeward-crabapple-4c7.notion.site/VLAN-25df74bd74704eda9e4fc7f2ea82b4e9)
 - [링크계층 - 오류검출, 채널 분할 프로토콜](https://leeward-crabapple-4c7.notion.site/e4e7a9c4ca5d406cbaf6a1f1dd880997)
+- [링크계층 - 랜덤 접속 프로토콜](https://leeward-crabapple-4c7.notion.site/2-cb06472e7c784e6793bc1e3e7ccf6b9b)
