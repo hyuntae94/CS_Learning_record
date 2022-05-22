@@ -25,3 +25,4 @@
 - [링크계층 - 순번 프로토콜](https://leeward-crabapple-4c7.notion.site/3-cc35c94c19284d8cae809d011ff8d4f8)
 - [MAC 주소와 ARP 프로토콜](https://leeward-crabapple-4c7.notion.site/a46a09b523aa4ab3bb542a1e9e573ec9)
 - [이더넷에 관하여](https://leeward-crabapple-4c7.notion.site/2881fb43bdf54a8fa72572cf0fde53bb)
+- [링크 계층 스위치](https://leeward-crabapple-4c7.notion.site/7fdb4240ece24f2491197136220869b8)
