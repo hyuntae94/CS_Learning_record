@@ -19,7 +19,7 @@
 - [프로세스/쓰레드 동기화1](https://leeward-crabapple-4c7.notion.site/45fdc23eae334c71b9452d215863b79c)
 - [프로세스/쓰레드 동기화2](https://leeward-crabapple-4c7.notion.site/2-caad9d68a2264fea9e73fbd1de2cbb8a)
 - [프로세스/쓰레드 동기화 기법](https://leeward-crabapple-4c7.notion.site/Process-Thread-90c3a1e8fa8840a4962d96141b48473f)
-
+- [프로세스/쓰레드 동기화 문제](https://leeward-crabapple-4c7.notion.site/44a63795c83d4a269f349815a79997bf)
 # ⚙️ 네트워크
 
 - [switch, router](https://leeward-crabapple-4c7.notion.site/ae961625048947118fd74197fc7666a6)
