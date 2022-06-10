@@ -17,6 +17,7 @@
 - [프로세스통신에 대해서1](https://leeward-crabapple-4c7.notion.site/1-c8d3c46a818f4c948e9a609bfd88fa45)
 - [프로세스통신에 대해서2_파일,fork,파이프](https://leeward-crabapple-4c7.notion.site/2-e384097eb3474e5392a1009a9d65c38b)
 - [프로세스/쓰레드 동기화1](https://leeward-crabapple-4c7.notion.site/45fdc23eae334c71b9452d215863b79c)
+- [프로세스/쓰레드 동기화2](https://leeward-crabapple-4c7.notion.site/2-caad9d68a2264fea9e73fbd1de2cbb8a)
 
 # ⚙️ 네트워크
 
