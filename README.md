@@ -23,6 +23,7 @@
 - [교착상태](https://leeward-crabapple-4c7.notion.site/Deadlock-9a89fb347b47460d9915d16348e28528)
 
 - [메모리 part1 - 메모리 관리, 메모리 오버레이](https://leeward-crabapple-4c7.notion.site/1-9a9334536f0d46df9d048ba4e533e0bf)
+- [메모리 part2 - 메모리 할당 기법, 단편화](https://leeward-crabapple-4c7.notion.site/2-fdd3843baf664bc9985700b1eeda7d1b)
 # ⚙️ 네트워크
 
 - [switch, router](https://leeward-crabapple-4c7.notion.site/ae961625048947118fd74197fc7666a6)
