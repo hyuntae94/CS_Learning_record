@@ -24,6 +24,12 @@
 
 - [메모리 part1 - 메모리 관리, 메모리 오버레이](https://leeward-crabapple-4c7.notion.site/1-9a9334536f0d46df9d048ba4e533e0bf)
 - [메모리 part2 - 메모리 할당 기법, 단편화](https://leeward-crabapple-4c7.notion.site/2-fdd3843baf664bc9985700b1eeda7d1b)
+- [메모리 part3 - 물리&가상 메모리, 페이지 테이블 엔트리](https://leeward-crabapple-4c7.notion.site/3-78e7e2c6a44f43b48ba0e66e6dbfc713)
+
+**박태준 교수님의 수업을 듣고 정리한 내용입니다.**
+
+
+
 # ⚙️ 네트워크
 
 - [switch, router](https://leeward-crabapple-4c7.notion.site/ae961625048947118fd74197fc7666a6)
